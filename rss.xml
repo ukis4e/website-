@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+  <rss version="2.0"><channel> 
+				<title>RSS Selamat Datang di SMAN 1 Kota Padang</title> 
+				<description>Menyajikan berita terbaru, tercepat, dan terpercaya seputar tunggul hitam.</description>
+				<link>http://localhost/swarakalibata_ci</link> 
+				<language>id-id</language><item>
+						                <title>Penerimaan Peserta Didik Baru</title>
+						                <link>http://localhost/smpn1baronsite/berita/detail/penerimaan-peserta-didik-baru</link>
+						                <description>Tahun ini, SMP Negeri 1 Baron kembali membuka Penerimaan Siswa Didik Baru
+
+Link Pendaftaran : http://smpn1baron.sch.id/
+</description>
+					                </item></channel>
+  	</rss>
